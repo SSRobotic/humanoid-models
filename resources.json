@@ -1,0 +1,89 @@
+[
+  {
+    "id": "collections-dobot-atom-urdf",
+    "title": "DOBOT Atom Models",
+    "categories": [
+      "models"
+    ],
+    "tags": [
+      "Atom",
+      "URDF",
+      "Xacro",
+      "Meshes"
+    ],
+    "description": "DOBOT Atom URDF / Xacro model and mesh collection.",
+    "descriptionTh": "URDF / Xacro และ Mesh สำหรับสำรวจโมเดลและแสดงผล DOBOT Atom",
+    "source": "collection",
+    "owner": "Dobot-Arm",
+    "url": "https://github.com/SSRobotic/dobot-atom-models",
+    "upstream": "https://github.com/Dobot-Arm/dobot_atom_urdf",
+    "verifiedOn": "2026-10-10",
+    "key": "dobot-atom-models",
+    "collectionPath": "collections/dobot/atom-urdf"
+  },
+  {
+    "id": "collections-unitree-ros",
+    "title": "Unitree Robot Models",
+    "categories": [
+      "models"
+    ],
+    "tags": [
+      "A1",
+      "Aliengo",
+      "URDF",
+      "Gazebo",
+      "ROS"
+    ],
+    "description": "A1 / Aliengo / AliengoZ1 model snapshots and legacy ROS / Gazebo packages; modern humanoid models are linked upstream.",
+    "descriptionTh": "คลังโมเดล A1 / Aliengo / AliengoZ1 และชุด ROS / Gazebo รุ่นเดิม เชื่อมโมเดล Humanoid รุ่นใหม่ผ่านต้นฉบับ",
+    "source": "collection",
+    "owner": "unitreerobotics",
+    "url": "https://github.com/SSRobotic/unitree-robot-models",
+    "upstream": "https://github.com/unitreerobotics/unitree_ros",
+    "verifiedOn": "2026-10-10",
+    "key": "unitree-robot-models",
+    "collectionPath": "collections/unitree/ros"
+  },
+  {
+    "id": "Open-X-Humanoid-TienKung_URDF",
+    "key": "Open-X-Humanoid/TienKung_URDF",
+    "title": "TienKung URDF",
+    "description": "Robot description and mesh resources for the TienKung humanoid.",
+    "descriptionTh": "โมเดล Robot Description และ Mesh สำหรับ Humanoid TienKung",
+    "categories": [
+      "models"
+    ],
+    "tags": [
+      "TienKung",
+      "URDF",
+      "Meshes"
+    ],
+    "source": "upstream",
+    "owner": "Open-X-Humanoid",
+    "url": "https://github.com/Open-X-Humanoid/TienKung_URDF",
+    "upstream": "https://github.com/Open-X-Humanoid/TienKung_URDF",
+    "license": "NOASSERTION",
+    "verifiedOn": "2026-10-10"
+  },
+  {
+    "id": "google-deepmind-mujoco_menagerie",
+    "title": "MuJoCo Menagerie",
+    "categories": [
+      "models"
+    ],
+    "tags": [
+      "MJCF",
+      "Models",
+      "MuJoCo"
+    ],
+    "description": "A collection of robot models for MuJoCo. Inspect individual model folders for hardware coverage and asset licenses.",
+    "descriptionTh": "คลังโมเดลหุ่นยนต์สำหรับ MuJoCo ตรวจแต่ละโฟลเดอร์เพื่อดูรุ่นหุ่นยนต์และเงื่อนไขการใช้ Asset",
+    "source": "upstream",
+    "owner": "google-deepmind",
+    "url": "https://github.com/google-deepmind/mujoco_menagerie",
+    "upstream": "https://github.com/google-deepmind/mujoco_menagerie",
+    "license": "NOASSERTION",
+    "verifiedOn": "2026-10-10",
+    "key": "google-deepmind/mujoco_menagerie"
+  }
+]
