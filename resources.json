@@ -1,27 +1,5 @@
 [
   {
-    "id": "collections-dobot-atom-urdf",
-    "title": "DOBOT Atom Models",
-    "categories": [
-      "models"
-    ],
-    "tags": [
-      "Atom",
-      "URDF",
-      "Xacro",
-      "Meshes"
-    ],
-    "description": "DOBOT Atom URDF / Xacro model and mesh collection.",
-    "descriptionTh": "URDF / Xacro และ Mesh สำหรับสำรวจโมเดลและแสดงผล DOBOT Atom",
-    "source": "collection",
-    "owner": "Dobot-Arm",
-    "url": "https://github.com/SSRobotic/dobot-atom-models",
-    "upstream": "https://github.com/Dobot-Arm/dobot_atom_urdf",
-    "verifiedOn": "2026-10-10",
-    "key": "dobot-atom-models",
-    "collectionPath": "collections/dobot/atom-urdf"
-  },
-  {
     "id": "collections-unitree-ros",
     "title": "Unitree Robot Models",
     "categories": [
@@ -45,25 +23,26 @@
     "collectionPath": "collections/unitree/ros"
   },
   {
-    "id": "Open-X-Humanoid-TienKung_URDF",
-    "key": "Open-X-Humanoid/TienKung_URDF",
-    "title": "TienKung URDF",
-    "description": "Robot description and mesh resources for the TienKung humanoid.",
-    "descriptionTh": "โมเดล Robot Description และ Mesh สำหรับ Humanoid TienKung",
+    "id": "collections-dobot-atom-urdf",
+    "title": "DOBOT Atom Models",
     "categories": [
       "models"
     ],
     "tags": [
-      "TienKung",
+      "Atom",
       "URDF",
+      "Xacro",
       "Meshes"
     ],
-    "source": "upstream",
-    "owner": "Open-X-Humanoid",
-    "url": "https://github.com/Open-X-Humanoid/TienKung_URDF",
-    "upstream": "https://github.com/Open-X-Humanoid/TienKung_URDF",
-    "license": "NOASSERTION",
-    "verifiedOn": "2026-10-10"
+    "description": "DOBOT Atom URDF / Xacro model and mesh collection.",
+    "descriptionTh": "URDF / Xacro และ Mesh สำหรับสำรวจโมเดลและแสดงผล DOBOT Atom",
+    "source": "collection",
+    "owner": "Dobot-Arm",
+    "url": "https://github.com/SSRobotic/dobot-atom-models",
+    "upstream": "https://github.com/Dobot-Arm/dobot_atom_urdf",
+    "verifiedOn": "2026-10-10",
+    "key": "dobot-atom-models",
+    "collectionPath": "collections/dobot/atom-urdf"
   },
   {
     "id": "google-deepmind-mujoco_menagerie",
@@ -85,5 +64,70 @@
     "license": "NOASSERTION",
     "verifiedOn": "2026-10-10",
     "key": "google-deepmind/mujoco_menagerie"
+  },
+  {
+    "id": "Open-X-Humanoid-TienKung_URDF",
+    "key": "Open-X-Humanoid/TienKung_URDF",
+    "title": "TienKung URDF",
+    "description": "Robot description and mesh resources for the TienKung humanoid.",
+    "descriptionTh": "โมเดล Robot Description และ Mesh สำหรับ Humanoid TienKung",
+    "categories": [
+      "models"
+    ],
+    "tags": [
+      "TienKung",
+      "URDF",
+      "Meshes"
+    ],
+    "source": "upstream",
+    "owner": "Open-X-Humanoid",
+    "url": "https://github.com/Open-X-Humanoid/TienKung_URDF",
+    "upstream": "https://github.com/Open-X-Humanoid/TienKung_URDF",
+    "license": "NOASSERTION",
+    "verifiedOn": "2026-10-10"
+  },
+  {
+    "id": "artvip",
+    "key": "ArtVIP",
+    "title": "ArtVIP Assets",
+    "description": "Articulated-object digital-twin datasets and scene assets from X-Humanoid.",
+    "descriptionTh": "Dataset Digital Twin ของวัตถุมีข้อต่อและ Scene Asset จาก X-Humanoid",
+    "categories": [
+      "datasets",
+      "models"
+    ],
+    "tags": [
+      "Digital twin",
+      "USD",
+      "Assets"
+    ],
+    "source": "upstream",
+    "owner": "X-Humanoid",
+    "url": "https://huggingface.co/datasets/X-Humanoid/ArtVIP",
+    "upstream": "https://huggingface.co/datasets/X-Humanoid/ArtVIP",
+    "verifiedOn": "2026-10-10"
+  },
+  {
+    "id": "pink-kinematics-pink",
+    "key": "pink-kinematics/pink",
+    "title": "Pink Inverse Kinematics",
+    "description": "Differential inverse kinematics in Python using Pinocchio and QP solvers.",
+    "descriptionTh": "Differential Inverse Kinematics ใน Python ใช้ Pinocchio และ QP Solver",
+    "tags": [
+      "IK",
+      "Pinocchio",
+      "QP"
+    ],
+    "categories": [
+      "algorithms",
+      "models",
+      "control"
+    ],
+    "source": "upstream",
+    "owner": "pink-kinematics",
+    "url": "https://github.com/pink-kinematics/pink",
+    "upstream": "https://github.com/pink-kinematics/pink",
+    "license": "Apache-2.0",
+    "verifiedOn": "2026-10-10"
   }
 ]
