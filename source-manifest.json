@@ -1,0 +1,21 @@
+{
+  "repository": "humanoid-models",
+  "url": "https://github.com/SSRobotic/humanoid-models",
+  "projects": [
+    {
+      "slug": "Dobot-Arm/dobot_atom_urdf",
+      "source_url": "https://github.com/Dobot-Arm/dobot_atom_urdf",
+      "commit": "6a4461f532e284ecbe7f8bc6e9413accfc923c01",
+      "snapshot": "existing preserved collection",
+      "gitlinks": [],
+      "license": "See retained source notices",
+      "folder": "projects/dobot_atom_urdf",
+      "file_count": 37,
+      "bytes": 45995497,
+      "lfs_pointers": []
+    }
+  ],
+  "source_file_count": 37,
+  "lfs_pointer_count": 0,
+  "materialized_file_count": 37
+}

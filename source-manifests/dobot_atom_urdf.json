@@ -1,0 +1,236 @@
+{
+  "slug": "Dobot-Arm/dobot_atom_urdf",
+  "source_url": "https://github.com/Dobot-Arm/dobot_atom_urdf",
+  "commit": "6a4461f532e284ecbe7f8bc6e9413accfc923c01",
+  "snapshot": "existing preserved collection",
+  "files": [
+    {
+      "path": "LICENSE",
+      "sha": "c402f7bbe6591288e783830fa35a988db11ff6aa",
+      "size": 1066,
+      "mode": "100644"
+    },
+    {
+      "path": "README.md",
+      "sha": "29c2901c53610759948a0c0cc52b73d42c51c1ea",
+      "size": 1116,
+      "mode": "100644"
+    },
+    {
+      "path": "image/atom_urdf.jpg",
+      "sha": "f6e65089b5c80b8044ceda1093f7521a89153975",
+      "size": 710193,
+      "mode": "100644"
+    },
+    {
+      "path": "image/rviz.jpg",
+      "sha": "f86290ce902ddcf75008f1c162d558b12d718156",
+      "size": 21805,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/head_pitch_link.STL",
+      "sha": "a513ea497ede9ed4c44c38a13e4218ca3c76f9ee",
+      "size": 4200134,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/head_yaw_link.STL",
+      "sha": "496f51c0904590da61499ea825b4f26496efafdb",
+      "size": 22184,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/left_elbow_pitch_link.STL",
+      "sha": "568434402d1cd19b74efad68ef754dc39f90ab8d",
+      "size": 1005684,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/left_elbow_roll_link.STL",
+      "sha": "d15d8796ed1e456d0d3db26b8385deff0743659b",
+      "size": 990484,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/left_shoulder_pitch_link.STL",
+      "sha": "34dc5279febfb110b4881dc687794cb94d7292eb",
+      "size": 939784,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/left_shoulder_roll_link.STL",
+      "sha": "1da8b7b1d5c34b3600a4edc3e12fe6da0368112d",
+      "size": 574184,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/left_shoulder_yaw_link.STL",
+      "sha": "f26031e948a86a9143cff315aa262a3d8fce28cc",
+      "size": 992834,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/left_wrist_pitch_link.STL",
+      "sha": "98e915f41bce75f97d82aee1ef7fbfe84f78fcff",
+      "size": 1024134,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/left_wrist_yaw_link.STL",
+      "sha": "da6c7cadec53217f787694719e1601e4cad9ae3f",
+      "size": 1135484,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/leg_l1_link.STL",
+      "sha": "ff16729c2398bc0c817f80873116cc4f9eb8c6d6",
+      "size": 1209234,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/leg_l2_link.STL",
+      "sha": "aa69f7141f4199cd9af20b09c28ed70219caec9f",
+      "size": 1738284,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/leg_l3_link.STL",
+      "sha": "c0b6cab20d53acf9cb97720039cc13c081b7d800",
+      "size": 3877984,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/leg_l4_link.STL",
+      "sha": "b70e7009895c49343d04576a7513b006e558c18a",
+      "size": 1623334,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/leg_l5_link.STL",
+      "sha": "8d65fb9f7960a3c3aaf01bdd94ab221ae7844b4b",
+      "size": 24984,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/leg_l6_link.STL",
+      "sha": "56934527ef133765758f9bd47f2b3457bcfcb149",
+      "size": 2001684,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/leg_r1_link.STL",
+      "sha": "65cc1f817b0de9500971d0693ce18db389c77965",
+      "size": 1211584,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/leg_r2_link.STL",
+      "sha": "3fc542837bec5fc7f48a32bdf582b9519a7a5424",
+      "size": 1868134,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/leg_r3_link.STL",
+      "sha": "8967e78e6a2e1b4bc15c84ced91d3843188875d5",
+      "size": 3893284,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/leg_r4_link.STL",
+      "sha": "034fafea45e5f97461cebac6e826610be716beec",
+      "size": 1630634,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/leg_r5_link.STL",
+      "sha": "612949ccf5dd395512c2057e9f10e35a5286b680",
+      "size": 24984,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/leg_r6_link.STL",
+      "sha": "6f429cccb861d8c5ac881964429b117034e6d8c8",
+      "size": 2001684,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/pelvis.STL",
+      "sha": "4493fc66db2e153e5d7adf0d44ea3fc596200636",
+      "size": 2789884,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/right_elbow_pitch_link.STL",
+      "sha": "fca7f56f8d5fd1ea4378d7cb2c98b5402c734116",
+      "size": 1005684,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/right_elbow_roll_link.STL",
+      "sha": "d4c955dccd70d93b2b0452c5bc29c52579047cbd",
+      "size": 990484,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/right_shoulder_pitch_link.STL",
+      "sha": "e750c9e25d57a8e2ab2df0f250e0a48dfa5f233e",
+      "size": 939784,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/right_shoulder_roll_link.STL",
+      "sha": "521059e8d722bf59051fc85d2893f0282f2807e4",
+      "size": 574184,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/right_shoulder_yaw_link.STL",
+      "sha": "20ac1ca073c60bb132f67ef0a503a194b407cf38",
+      "size": 992834,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/right_wrist_pitch_link.STL",
+      "sha": "02ebd4f44a100fa5d3d7c19d875cf6cd5c4092f1",
+      "size": 1024134,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/right_wrist_yaw_link.STL",
+      "sha": "128e8d0918055131691159c47aadbe1b3289c90e",
+      "size": 1135484,
+      "mode": "100644"
+    },
+    {
+      "path": "meshes/torso_link.STL",
+      "sha": "912aa547b8ab0130b01a2c60a57cf5445adab0ee",
+      "size": 3723634,
+      "mode": "100644"
+    },
+    {
+      "path": "urdf/atom.urdf",
+      "sha": "7fd540652da5dee0350d0c168338eaa2d086a6eb",
+      "size": 31295,
+      "mode": "100644"
+    },
+    {
+      "path": "urdf/atom_lower.urdf",
+      "sha": "a47441cb23ea511c405c384cf2d1b36806b1eea7",
+      "size": 31600,
+      "mode": "100644"
+    },
+    {
+      "path": "urdf/atom_wholebody.urdf",
+      "sha": "f38b832d66d1b80a1a7239e5662b41f41754cd76",
+      "size": 31602,
+      "mode": "100644"
+    }
+  ],
+  "gitlinks": [],
+  "license": "See retained source notices",
+  "folder": "projects/dobot_atom_urdf",
+  "file_count": 37,
+  "bytes": 45995497,
+  "lfs_pointers": []
+}

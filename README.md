@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/ssrobotics-logo.jpg" alt="SSRobotics — original logo by SSRobotic" width="240"></p>
 
 <h1 align="center">🦾 Models & URDF</h1>
-<p align="center"><b>SSRobotics · Engineering Resource Directory</b></p>
+<p align="center"><b>SSRobotics · Source Code Collection</b></p>
 
 <p align="center">
   <a href="https://ssrobotic.github.io/humanoid-robot-hub/"><img src="https://img.shields.io/badge/Resources-6-f28c28?style=flat-square" alt="6 curated resources"></a>
@@ -28,6 +28,23 @@ Curated by **SSRobotic — Robotics Engineer & Open-source Curator**. This repos
 | [TienKung URDF](https://github.com/Open-X-Humanoid/TienKung_URDF) | Robot description and mesh resources for the TienKung humanoid. | TienKung, URDF, Meshes | [Open-X-Humanoid](https://github.com/Open-X-Humanoid/TienKung_URDF) |
 | [ArtVIP Assets](https://huggingface.co/datasets/X-Humanoid/ArtVIP) | Articulated-object digital-twin datasets and scene assets from X-Humanoid. | Digital twin, USD, Assets | [X-Humanoid](https://huggingface.co/datasets/X-Humanoid/ArtVIP) |
 | [Pink Inverse Kinematics](https://github.com/pink-kinematics/pink) | Differential inverse kinematics in Python using Pinocchio and QP solvers. | IK, Pinocchio, QP | [pink-kinematics](https://github.com/pink-kinematics/pink) |
+
+## 📦 Code & models in this repository
+
+**37 tracked upstream files** — เปิดโฟลเดอร์ด้านล่างเพื่อดูโค้ดจริง โมเดล และตัวอย่างต้นฉบับ
+
+| Project files | Files | Pinned source | License / notices |
+| --- | ---: | --- | --- |
+| [Dobot-Arm/dobot_atom_urdf](projects/dobot_atom_urdf) | 37 | [`6a4461f532e2`](https://github.com/Dobot-Arm/dobot_atom_urdf/tree/6a4461f532e284ecbe7f8bc6e9413accfc923c01) | [LICENSE](projects/dobot_atom_urdf/LICENSE) |
+
+[Source manifest](source-manifest.json) records commits, file counts, Git LFS pointers and external submodules. [Per-file manifests](source-manifests/) record original Git blob hashes. `projects/` keeps upstream code, README files, licenses and notices; SSRobotics supplies the organization and guides.
+
+```bash
+git clone --depth 1 https://github.com/SSRobotic/humanoid-models.git
+cd humanoid-models
+```
+
+Open the imported project README for its dependencies, build instructions and supported robot/simulator versions. Each snapshot is collected independently; these projects have not been validated as one combined runnable stack.
 
 ## 🚀 Start here
 

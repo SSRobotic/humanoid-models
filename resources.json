@@ -42,7 +42,15 @@
     "upstream": "https://github.com/Dobot-Arm/dobot_atom_urdf",
     "verifiedOn": "2026-10-10",
     "key": "dobot-atom-models",
-    "collectionPath": "collections/dobot/atom-urdf"
+    "collectionPath": "collections/dobot/atom-urdf",
+    "localCopies": [
+      {
+        "repository": "humanoid-models",
+        "url": "https://github.com/SSRobotic/humanoid-models/tree/main/projects/dobot_atom_urdf",
+        "commit": "6a4461f532e284ecbe7f8bc6e9413accfc923c01",
+        "fileCount": 37
+      }
+    ]
   },
   {
     "id": "google-deepmind-mujoco_menagerie",
@@ -128,6 +136,14 @@
     "url": "https://github.com/pink-kinematics/pink",
     "upstream": "https://github.com/pink-kinematics/pink",
     "license": "Apache-2.0",
-    "verifiedOn": "2026-10-10"
+    "verifiedOn": "2026-10-10",
+    "localCopies": [
+      {
+        "repository": "humanoid-algorithms",
+        "url": "https://github.com/SSRobotic/humanoid-algorithms/tree/main/projects/pink",
+        "commit": "2c333161fc260de93fb7be1dd8d6519d2ecc2df2",
+        "fileCount": 128
+      }
+    ]
   }
 ]
